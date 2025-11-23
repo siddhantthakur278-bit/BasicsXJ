@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+    text-decoration:underline;
+}
+body{
+    background-color: teal;
+}
+button{
+    color: yellow;
+    text-decoration: underline;
+    background-color: gray;
+}
